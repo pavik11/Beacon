@@ -2,7 +2,7 @@
 
 Beacon is a community map for finding nearby water, public restrooms, free food, and safe places to rest. It is built with TanStack Start, Vite, React, Leaflet, and Supabase.
 
-## Features
+## Key Features
 
 - Interactive map with live pins and location-aware browsing
 - Search and category filtering for nearby resources
